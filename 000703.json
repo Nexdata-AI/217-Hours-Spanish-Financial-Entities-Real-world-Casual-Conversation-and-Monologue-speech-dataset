@@ -1,0 +1,524 @@
+{
+    "enties": [
+        {
+            "id": 1,
+            "name": "Oso Trava",
+            "type": "PERSON",
+            "start": 594,
+            "end": 603,
+            "lettercase": "MC"
+        },
+        {
+            "id": 2,
+            "name": "cada semana",
+            "type": "TIME",
+            "start": 617,
+            "end": 628,
+            "lettercase": "LC"
+        },
+        {
+            "id": 3,
+            "name": "Hoy",
+            "type": "TIME",
+            "start": 727,
+            "end": 730,
+            "lettercase": "UC"
+        },
+        {
+            "id": 4,
+            "name": "hace casi dos años",
+            "type": "TIME",
+            "start": 844,
+            "end": 862,
+            "lettercase": "LC"
+        },
+        {
+            "id": 5,
+            "name": "hoy",
+            "type": "TIME",
+            "start": 1420,
+            "end": 1423,
+            "lettercase": "LC"
+        },
+        {
+            "id": 6,
+            "name": "Carlos García",
+            "type": "PERSON",
+            "start": 1427,
+            "end": 1440,
+            "lettercase": "MC"
+        },
+        {
+            "id": 7,
+            "name": "Instagram",
+            "type": "SOFTWARE",
+            "start": 1466,
+            "end": 1475,
+            "lettercase": "UC"
+        },
+        {
+            "id": 8,
+            "name": "Carlos J García O",
+            "type": "PERSON",
+            "start": 1488,
+            "end": 1505,
+            "lettercase": "MC"
+        },
+        {
+            "id": 9,
+            "name": "Carlos",
+            "type": "PERSON",
+            "start": 1517,
+            "end": 1523,
+            "lettercase": "UC"
+        },
+        {
+            "id": 10,
+            "name": "Carlos",
+            "type": "PERSON",
+            "start": 1537,
+            "end": 1543,
+            "lettercase": "UC"
+        },
+        {
+            "id": 11,
+            "name": "Kavak",
+            "type": "ORGANIZATION",
+            "start": 1583,
+            "end": 1588,
+            "lettercase": "UC"
+        },
+        {
+            "id": 12,
+            "name": "América Latina",
+            "type": "LOCATION",
+            "start": 1663,
+            "end": 1677,
+            "lettercase": "MC"
+        },
+        {
+            "id": 13,
+            "name": "Carlos",
+            "type": "PERSON",
+            "start": 1679,
+            "end": 1685,
+            "lettercase": "UC"
+        },
+        {
+            "id": 14,
+            "name": "Universidad de Oxford",
+            "type": "ORGANIZATION",
+            "start": 1709,
+            "end": 1730,
+            "lettercase": "MC"
+        },
+        {
+            "id": 15,
+            "name": "Amazon",
+            "type": "ORGANIZATION",
+            "start": 1743,
+            "end": 1749,
+            "lettercase": "UC"
+        },
+        {
+            "id": 16,
+            "name": "McKinsey and Company",
+            "type": "ORGANIZATION",
+            "start": 1777,
+            "end": 1797,
+            "lettercase": "MC"
+        },
+        {
+            "id": 17,
+            "name": "dos mil catorce",
+            "type": "TIME",
+            "start": 1802,
+            "end": 1817,
+            "lettercase": "LC"
+        },
+        {
+            "id": 18,
+            "name": "Ciudad de México",
+            "type": "LOCATION",
+            "start": 1829,
+            "end": 1845,
+            "lettercase": "MC"
+        },
+        {
+            "id": 19,
+            "name": "Linio",
+            "type": "SOFTWARE",
+            "start": 1883,
+            "end": 1888,
+            "lettercase": "UC"
+        },
+        {
+            "id": 20,
+            "name": "México",
+            "type": "LOCATION",
+            "start": 1990,
+            "end": 1996,
+            "lettercase": "UC"
+        },
+        {
+            "id": 21,
+            "name": "Hoy",
+            "type": "TIME",
+            "start": 1998,
+            "end": 2001,
+            "lettercase": "UC"
+        },
+        {
+            "id": 22,
+            "name": "Carlos",
+            "type": "PERSON",
+            "start": 2002,
+            "end": 2008,
+            "lettercase": "UC"
+        },
+        {
+            "id": 23,
+            "name": "Kavak",
+            "type": "ORGANIZATION",
+            "start": 2054,
+            "end": 2059,
+            "lettercase": "UC"
+        },
+        {
+            "id": 24,
+            "name": "G B M Plus",
+            "type": "ORGANIZATION",
+            "start": 2292,
+            "end": 2302,
+            "lettercase": "MC"
+        },
+        {
+            "id": 25,
+            "name": "Nueva York",
+            "type": "LOCATION",
+            "start": 2575,
+            "end": 2585,
+            "lettercase": "MC"
+        },
+        {
+            "id": 26,
+            "name": "América Latina",
+            "type": "LOCATION",
+            "start": 2625,
+            "end": 2639,
+            "lettercase": "MC"
+        },
+        {
+            "id": 27,
+            "name": "México",
+            "type": "LOCATION",
+            "start": 2738,
+            "end": 2744,
+            "lettercase": "UC"
+        },
+        {
+            "id": 28,
+            "name": "G B M Plus",
+            "type": "SOFTWARE",
+            "start": 2793,
+            "end": 2803,
+            "lettercase": "MC"
+        },
+        {
+            "id": 29,
+            "name": "GBM Plus",
+            "type": "SOFTWARE",
+            "start": 2949,
+            "end": 2957,
+            "lettercase": "MC"
+        },
+        {
+            "id": 30,
+            "name": "G B M Plus",
+            "type": "ORGANIZATION",
+            "start": 3303,
+            "end": 3313,
+            "lettercase": "MC"
+        },
+        {
+            "id": 31,
+            "name": "Ford",
+            "type": "ORGANIZATION",
+            "start": 3347,
+            "end": 3351,
+            "lettercase": "UC"
+        },
+        {
+            "id": 32,
+            "name": "G B M Plus",
+            "type": "ORGANIZATION",
+            "start": 3439,
+            "end": 3449,
+            "lettercase": "MC"
+        },
+        {
+            "id": 33,
+            "name": "G B M Plus",
+            "type": "ORGANIZATION",
+            "start": 3493,
+            "end": 3503,
+            "lettercase": "MC"
+        },
+        {
+            "id": 34,
+            "name": "Viernes",
+            "type": "TIME",
+            "start": 3553,
+            "end": 3560,
+            "lettercase": "UC"
+        },
+        {
+            "id": 35,
+            "name": "todos los viernes",
+            "type": "TIME",
+            "start": 3605,
+            "end": 3622,
+            "lettercase": "LC"
+        },
+        {
+            "id": 36,
+            "name": "Viernes",
+            "type": "TIME",
+            "start": 3737,
+            "end": 3744,
+            "lettercase": "UC"
+        },
+        {
+            "id": 37,
+            "name": "Viernes",
+            "type": "TIME",
+            "start": 3756,
+            "end": 3763,
+            "lettercase": "UC"
+        },
+        {
+            "id": 38,
+            "name": "fin de semana",
+            "type": "TIME",
+            "start": 3942,
+            "end": 3955,
+            "lettercase": "LC"
+        },
+        {
+            "id": 39,
+            "name": "cada semana",
+            "type": "TIME",
+            "start": 4052,
+            "end": 4063,
+            "lettercase": "LC"
+        },
+        {
+            "id": 40,
+            "name": "viernes",
+            "type": "TIME",
+            "start": 4138,
+            "end": 4145,
+            "lettercase": "LC"
+        },
+        {
+            "id": 41,
+            "name": "Carlos García",
+            "type": "PERSON",
+            "start": 4256,
+            "end": 4269,
+            "lettercase": "MC"
+        },
+        {
+            "id": 42,
+            "name": "Carlos",
+            "type": "PERSON",
+            "start": 4280,
+            "end": 4286,
+            "lettercase": "UC"
+        },
+        {
+            "id": 43,
+            "name": "Oso",
+            "type": "PERSON",
+            "start": 4470,
+            "end": 4473,
+            "lettercase": "UC"
+        },
+        {
+            "id": 44,
+            "name": "Carlos",
+            "type": "PERSON",
+            "start": 4571,
+            "end": 4577,
+            "lettercase": "UC"
+        },
+        {
+            "id": 45,
+            "name": "siete años",
+            "type": "TIME",
+            "start": 4871,
+            "end": 4881,
+            "lettercase": "LC"
+        },
+        {
+            "id": 46,
+            "name": "Venezuela",
+            "type": "LOCATION",
+            "start": 4955,
+            "end": 4964,
+            "lettercase": "UC"
+        },
+        {
+            "id": 47,
+            "name": "muchos años",
+            "type": "TIME",
+            "start": 5306,
+            "end": 5317,
+            "lettercase": "LC"
+        },
+        {
+            "id": 48,
+            "name": "México",
+            "type": "LOCATION",
+            "start": 5410,
+            "end": 5416,
+            "lettercase": "UC"
+        },
+        {
+            "id": 49,
+            "name": "siete años",
+            "type": "TIME",
+            "start": 5431,
+            "end": 5441,
+            "lettercase": "LC"
+        },
+        {
+            "id": 50,
+            "name": "México",
+            "type": "LOCATION",
+            "start": 5445,
+            "end": 5451,
+            "lettercase": "UC"
+        },
+        {
+            "id": 51,
+            "name": "Carlos",
+            "type": "PERSON",
+            "start": 5935,
+            "end": 5941,
+            "lettercase": "UC"
+        },
+        {
+            "id": 52,
+            "name": "Kavak",
+            "type": "ORGANIZATION",
+            "start": 5962,
+            "end": 5967,
+            "lettercase": "UC"
+        },
+        {
+            "id": 53,
+            "name": "dos mil dieciséis",
+            "type": "TIME",
+            "start": 5986,
+            "end": 6003,
+            "lettercase": "LC"
+        },
+        {
+            "id": 54,
+            "name": "Linio",
+            "type": "SOFTWARE",
+            "start": 6159,
+            "end": 6164,
+            "lettercase": "UC"
+        },
+        {
+            "id": 55,
+            "name": "Estados Unidos",
+            "type": "LOCATION",
+            "start": 6544,
+            "end": 6558,
+            "lettercase": "MC"
+        },
+        {
+            "id": 56,
+            "name": "Venezuela",
+            "type": "LOCATION",
+            "start": 6744,
+            "end": 6753,
+            "lettercase": "UC"
+        },
+        {
+            "id": 57,
+            "name": "Alfonso Rivas",
+            "type": "ORGANIZATION",
+            "start": 6972,
+            "end": 6985,
+            "lettercase": "MC"
+        },
+        {
+            "id": 58,
+            "name": "Venezuela",
+            "type": "LOCATION",
+            "start": 7411,
+            "end": 7420,
+            "lettercase": "UC"
+        },
+        {
+            "id": 59,
+            "name": "Venezuela",
+            "type": "LOCATION",
+            "start": 8594,
+            "end": 8603,
+            "lettercase": "UC"
+        },
+        {
+            "id": 60,
+            "name": "Europa",
+            "type": "LOCATION",
+            "start": 9266,
+            "end": 9272,
+            "lettercase": "UC"
+        },
+        {
+            "id": 61,
+            "name": "Oxford",
+            "type": "LOCATION",
+            "start": 9291,
+            "end": 9297,
+            "lettercase": "UC"
+        },
+        {
+            "id": 62,
+            "name": "Amazon",
+            "type": "ORGANIZATION",
+            "start": 9321,
+            "end": 9327,
+            "lettercase": "UC"
+        },
+        {
+            "id": 63,
+            "name": "Inglaterra",
+            "type": "LOCATION",
+            "start": 9345,
+            "end": 9355,
+            "lettercase": "UC"
+        },
+        {
+            "id": 64,
+            "name": "McKinsey",
+            "type": "ORGANIZATION",
+            "start": 9411,
+            "end": 9419,
+            "lettercase": "MC"
+        },
+        {
+            "id": 65,
+            "name": "McKinsey",
+            "type": "ORGANIZATION",
+            "start": 9526,
+            "end": 9534,
+            "lettercase": "MC"
+        }
+    ]
+}

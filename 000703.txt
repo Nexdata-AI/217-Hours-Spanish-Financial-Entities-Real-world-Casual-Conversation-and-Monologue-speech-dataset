@@ -1,0 +1,107 @@
+0.011363705018939393	4.954734967592893	O2	Toma control, si tú quieres que el futuro sea diferente sal a construirlo, ¿no? Sa- sal a hacer que sea diferente.[N]
+4.954734967592893	9.647930299167705	O2	Si tienes una visión que pueda cambiar el futuro, si tú quieres que tu vida personal sea diferente, toma control de esa vida.[N]
+9.647930299167705	14.637510888263764	O2	Si tú quieres que tu trabajo sea diferente, toma control de la narrativa de tu trabajo, toma control de lo que estás haciendo.[N]
+14.637510888263764	19.76962461883456	O2	Creo que como seres humanos nos las perdemos demasiado tiempo en en en en en no,[N]
+19.76962461883456	22.81174389440378	O2	en en no estar en control y apenas tomas control todo empieza a.[N]
+36.87093552085262	39.887221032177685	O1	Hola y bienvenidos a un nuevo episodio de Cracks Pódcast.
+39.89858473719662	44.161766402242044	O1	Yo soy Oso Trava y entrevisto cada semana a las mentes más brillantes
+44.161766402242044	48.15349734886757	O1	para dejarte algo único y práctico que puedas usar en tu vida diaria.
+48.42250220018481	54.95910848484848	O1	Hoy estoy muy contento porque lo que estás escuchando ahora es el episodio número cien de Cracks.
+55.11974456530897	58.89939665664806	O1	Cuando empecé esto hace casi dos años, nunca me imaginé,
+58.89939665664806	66.54132181627837	O1	no podía yo ni siquiera concebir el impacto que Cracks iba a tener en mi vida y en la de tantas personas como tú.
+66.78550697194545	72.86903225062834	O1	No quería dejar pasar la oportunidad de darte a ti las gracias por escucharme, por compartir Cracks,
+72.86903225062834	77.18278521456273	O1	pero sobre todo, por tomar las lecciones que comparten mis invitados
+77.18278521456273	81.89005820146335	O1	para hacer un cambio en tu empresa, en tu cuerpo y hasta en tu vida.
+82.0522023647488	89.10436272476437	O1	Cien episodios es solo el comienzo, así que si depende de mí, tendrás Cracks para mucho rato más.
+89.10436272476437	93.48003136550562	O1	Y para festejar este episodio especial, tengo un invitado muy especial.
+93.70860199816626	100.04571242334106	O1	Mi invitado de hoy es Carlos García y lo puedes encontrar en Instagram como arroba Carlos J García O.
+100.35032904970373	104.78942819196432	O1	¿Quién es Carlos? Bueno, pues Carlos es el emprendedor venezolano detrás de Kavak,
+104.78942819196432	109.49033166649718	O1	la empresa líder en el mercado de compraventa de vehículos seminuevos en América Latina.
+109.57145750811847	116.80694554439192	O1	Carlos estudió un M B A en la Universidad de Oxford, trabajó en Amazon y después en la consultora McKinsey and Company.
+116.88428615203665	121.80428517704593	O1	En dos mil catorce llegó a la Ciudad de México para dirigir la oficina regional del Linio,
+121.80428517704593	128.39813145697732	O1	en donde nació la idea que se convertiría después en la primera startup unicornio en la historia de México.
+128.63834669575056	136.5310983035714	O1	Hoy Carlos y yo hablamos muy abiertamente de cómo llevó Kavak de idea a una valuación de más de mil millones de dólares,
+136.5310983035714	144.23265404711051	O1	de la importancia de formar un buen equipo y de cómo fijar metas gigantes es el primer paso para lograr lo imposible.
+144.29857174693575	148.08428489847716	O1	Pero antes de empezar, este episodio es presentado por G B M Plus.
+148.38691594551906	152.19571343011017	O1	Uno de los temas que más se repiten con mis invitados en el pódcast
+152.19571343011017	158.0493188870708	O1	es el poder del interés compuesto tanto en cuestión de hábitos como en la construcción de riqueza personal.
+158.14107181125465	163.92750021424987	O1	Esto es algo que pude ver yo de primera mano en los años que trabajé en el mundo financiero en Nueva York.
+163.92750021424987	170.86357541453145	O1	Vi cómo las personas más afluentes de América Latina invierten su dinero en las empresas que cotizan en bolsa,
+171.21931862979517	175.59	O1	esto había sido muy difícil de hacer en México, pero los tiempos afortunadamente han cambiado.
+175.95	182.4540441957559	O1	G B M Plus es la aplicación en la que puedes comprar y vender acciones de empresas nacionales e internacionales,
+182.4540441957559	184.84299518838228	O1	invertir tu dinero y verlo crecer.
+185.04162425797054	192.35593183028428	O1	Además, GBM Plus te permite tener tu dinero en efectivo, generando rendimientos y con disponibilidad diaria,
+192.35593183028428	198.88178247822515	O1	y hasta puedes personalizar tus estrategias de inversión utilizando sus algoritmos inteligentes de manera muy sencilla.
+199.04616515650503	203.0211643888031	O1	Si quieres empezar a invertir tu dinero y ponerlo a trabajar para ti,
+203.105776932951	210.3390903598485	O1	para la comunidad de Cracks Podcast, cuando abres tu cuenta de G B M Plus, te regalan tu primera acción de Ford.
+210.3390903598485	216.92537117322783	O1	Para abrir tu cuenta, lo único que tienes que hacer es ir a Cracks punto L A diagonal G B M Plus,
+216.92537117322783	222.18670508928568	O1	una vez más, es Cracks punto L A diagonal G B M Plus.
+222.38925500641818	225.8695033797063	O1	Y este episodio es presentado por mi newsletter Viernes de Cracks.
+225.95645952664063	231.82441039300832	O1	Si quieres recibir un correo mío todos los viernes con las cosas más interesantes que encontré en la semana,
+231.88652192653285	236.129438169171	O1	entonces no puedes dejar de suscribirte a mi newsletter Viernes de Cracks.
+236.30956161639202	243.07770114051613	O1	Viernes de Cracks es un correo muy corto con cinco tips, hacks, recomendaciones de documentales, libros, apps, artículos,
+243.15198808630348	249.9687569072784	O1	o cosas que me recomiendan y que creo que pueden hacer mejor tu fin de semana o ayudarte a empezar una buena conversación.
+250.19956577959857	253.50689333333332	O1	Son muchos miles de personas las que ya lo reciben cada semana,
+253.50689333333332	260.4926096326642	O1	y si quieres recibirla tú también, puedes ir a Cracks punto L A diagonal viernes y muy pronto estará en tu inbox.
+260.585776932951	267.73855665055225	O1	Y ahora sí, vamos a mi episodio del centenario con el grandísimo emprendedor Carlos García.
+270.2760877061314	275.677960965725	O1	Estimado Carlos, qué bueno tenerte por aquí, gracias por hacer el tiempo, sé que estás ocupadísimo
+275.677960965725	280.80216248149594	O1	y eso es lo que viene con construir el primer unicornio mexicano, muchas gracias.
+281.27093231954126	286.8008684408029	O2	No, gracias a ti, Oso, feliz de estar aquí con con tu audiencia y bueno, para que para que empecemos a conversar.
+287.311677313123	292.88	O1	Oye, Carlos, estaba, eh, investigando sobre ti, hablé con gente que te conoce, eh,
+292.88	295.60981267404065	O1	te has mudado más de treinta veces.
+296.5509323195412	304.07739036733574	O1	Cuéntame un poco cómo pasa eso, cuántos años tienes y cómo te mudas treinta veces antes de de de ahora.
+304.99714347289364	308.29667891576474	O2	No no sé el número exacto, pero pero sí me he mudado bastante.
+308.30010336017335	313.28436394421385	O2	Yo tengo treinta y siete años, eh, y y soy hijo de militar,
+313.28436394421385	319.42818630888917	O2	entonces como como buen hijo de militar en Venezuela, nos tocó mudarnos muchísimo cuando cuando estábamos creciendo.
+319.42818630888917	324.36466012237423	O2	Fui, yo creo que fui a catorce colegios en total antes de ir por la universidad.
+324.77851001283625	330.64057717174944	O2	Luego creo que tuve la etapa más estable de mi vida que fue en la universidad y ya de ahí de nuevo seguí dándole,
+330.64057717174944	336.4131716105424	O2	trabajé como consultor un montón de tiempo y y eso me me puso en un avión por por muchos años,
+336.6926735114026	340.8645599476046	O2	eh, y y bueno, creo que creo que desarrollé ese apetito por mudarme, ¿no?
+340.8645599476046	348.2680187084153	O2	Yo yo ahorita en México, que llevo ya siete años en México me he mudado como cinco veces dentro de la misma ciudad, pero porque siempre necesito un poco de cambio.
+348.39073601239664	353.52876122933884	O2	Creo que, eh, para mí la constante ha sido el el el el movimiento, el cambiar,
+353.8196648278238	358.6287551876722	O2	este, más bien cuando me quedo quieto, cuando las cosas no cambian, es cuando me pongo nervioso, ¿no?
+358.6287551876722	364.9352491135074	O2	Pero pero bien, es un trake de de mi crianza y y y luego, digamos, en mi, de mi carrera, lo que se tornó,
+365.2569595211125	369.2105805096418	O2	eh, o o de mi paz profesional, en lo que se tornó, me llevó a mudarme muchísimo, ¿no?
+369.8325613343664	374.8933272861638	O1	Oye, Carlos, y antes de empezar Kavak, que empezaron en dos mil dieciséis,
+375.0855994618056	377.9964370509971	O1	como me acabas de decir, tuviste muchísimos trabajos, ¿no?
+377.9964370509971	384.08666217229444	O1	O sea, fuiste consultor, estuviste en restaurantes, en Real Estate, eh, lanzando e-commerce en Linio,
+384.3149947865019	388.8399916584029	O1	eh, ¿cuál crees que es el trabajo del que más aprendiste?
+391.7	395.90791541005285	O2	Son, yo creo que son diferentes etapas, ¿no? Y se apre-, van aprendiendo diferentes cosas.
+395.90791541005285	399.58971576058195	O2	Te cuento un poco mi trayectoria y y sobre ahí le vamos entrando.
+399.7881296577381	406.38270894760865	O2	Yo yo arranqué desde que tenía como doce años buscando cualquier manera de de de trabajar
+406.38270894760865	408.05648942791026	O2	y y de y de construir algo, ¿no?
+408.05648942791026	410.5592986292614	O2	Arranqué cortando grama cuando vivía en Estados Unidos
+410.95333232638893	418.40571601190476	O2	y y y de ahí en adelante seguí montando diferentes empresas y y negocios chiquitos que algunos funcionaban, algunos no funcionaban,
+418.7311057407408	425.10887311342594	O2	eh, y terminé teniendo una cadena de restaurantes en Venezuela que que funcionó relativamente bien,
+425.35971272321433	427.66663104766957	O2	pero pero bueno, era una escala mucho más chiquita.
+428.3018177698863	432.1861963740079	O2	Y en ese proceso, mientras estaba trabajando en los restaurantes, eh,
+432.1861963740079	437.3201024437831	O2	conseguí un trabajo en una empresa venezolana que se llama Alfonso Rivas, que es una empresa de alimentos
+437.65447733796293	444.58875830522487	O2	que estaba lanzando o acaba de arrancar, digamos, una un endeavor de de de vender bebidas alcohólicas a través de sus canales de distribución
+445.36	449.26	O2	y eso lo arranqué yo ahí cuando tenía veinte años, creo, más o menos,
+449.9	456.80681097301135	O2	y y y ese fue un, ese fue uno de los trabajos más que que más me marcó a mí porque estaba en una empresa grande,
+457.0813561529356	460.49045557528405	O2	eh, de alimentos, es la segunda empresa de alimentos más grande de Venezuela,
+460.9	468.76	O2	y estaban tratando de lanzar un negocio de bebidas alcohólicas adentro y y yo era el responsable de estar, digamos, es esa, en en en ese lanzamiento, fuimos varios los que estuvimos involucrados,
+469.08954442471594	474.9395308309658	O2	pero eso me permitió a mí dentro de un ecosistema, dentro de una empresa muy grande, poder tomar riesgos diferentes a los que toma,
+474.9395308309658	479.0369850733902	O2	digamos, el resto de los, de las personas que trabajaban en, que trabajan en corporaciones.
+479.3913721343954	486.0999326729626	O2	Y ahí aprendí un montón porque tuve tuve, yo creo que los mejores jefes que que uno puede esperar tener cuando estás arrancando la carrera,
+486.0999326729626	492.1190888494319	O2	personas que que que que sin duda alguna confiaban en uno y que y que me permitían tomar riesgos
+492.3236355397727	496.3667928480114	O2	que me permitían, digamos, probar cosas diferentes y y e- eso creo que,
+496.4916359824811	502.9234930232008	O2	cuando yo combiné mi experiencia como emprendedor, digamos a menor escala con los restaurantes y con las cosas que había hecho, ya con con algo,
+503.1168275875947	509.9018162594697	O2	donde cualquier cosa que hacía movía las agujas profundamente porque porque porque te apalancaban un canal de instrucción enorme,
+510.1244111871937	513.9104510440341	O2	entonces lanzamos unos vinos argentinos que se convirtieron en los primeros vinos argentinos.
+514.3842759270993	517.3978254435602	O2	Los vinos argentinos, digamos, la marca más grande de vinos argentinos en Venezuela.
+517.5710282073046	523.4325918155656	O2	Lanzamos lanzamos vinos, lanzamos tequila, lanzamos whisky, lanzamos de todo, rones,
+523.4325918155656	528.9924584571736	O2	lanzamos de todo tipo de marcas y y cuando uno aprende a ver cómo cómo en escala puedes transformar las cosas
+529.3764237726418	535.0047138026719	O2	y y cómo las personas con las cuales trabajas te permiten, digamos, tomar riesgos, te permiten hacer cosas interesantes
+535.2748640484234	537.8701812687689	O2	fue para mí yo creo que el comienzo de todo lo que vino,
+538.1085558915165	542.5683806644145	O2	eh, porque mezcló las dos cosas que me apasionaban, ¿no? O sea, hacer, construir,
+542.5683806644145	548.1811722053302	O2	pero pero pero también haciéndolo a una escala más grande de la que uno uno solo hubiese podido hacerlo al inicio, ¿no?
+548.3959539350675	554.2018755562319	O2	Ese trabajo para mí fue fundamental en mi en mi trayecto y y bueno, de ahí me fui para Europa,
+554.2018755562319	559.8089184290542	O2	hice mi M B A en Oxford, terminé trabajando en Amazon en en en, eh, en Inglaterra
+559.8089184290542	563.7134934244446	O2	y volví para ser consultor en una empresa que se llama McKinsey acá en en la región,
+564.1353304603595	568.0713363151258	O2	donde en esta empresa, este, esta empresa fue como un
+568.0713363151258	574.1924776307184	O2	un renacer, ¿no? Yo llegué a a McKinsey a trabajar como consultor y probablemente era la persona más desestructurada que existía en el mundo.[N]
+574.8399006511478	579.5869325474423	O2	Eh, co- co- con mucha hambre y y y y co-, y muy trabajador, sí,
+579.6210236624992	583.9362433471424	O2	este, pero pero desestructurado, ¿no?, no, no era el típico consultor que iba a funcionar.
+583.9362433471424	591.7732532693894	O2	Mi hermana había hecho consultoría por mucho tiempo, eh, y la había visto ella en acción, pero pero definitivamente para mí era un mundo muy diferente
+591.7732532693894	599.8039459199671	O2	y y esa empresa yo creo que tuvo otros aprendizajes porque ahí aprendí un poco cómo usar mi cabeza mejor, cómo cómo cómo estructurar todas las.

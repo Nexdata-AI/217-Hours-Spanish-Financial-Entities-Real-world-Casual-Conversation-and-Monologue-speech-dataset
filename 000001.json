@@ -1,0 +1,468 @@
+{
+    "enties": [
+        {
+            "id": 1,
+            "name": "Microwd",
+            "type": "ORGANIZATION",
+            "start": 37,
+            "end": 44,
+            "lettercase": "UC"
+        },
+        {
+            "id": 2,
+            "name": "Microwd",
+            "type": "ORGANIZATION",
+            "start": 60,
+            "end": 67,
+            "lettercase": "UC"
+        },
+        {
+            "id": 3,
+            "name": "América Latina",
+            "type": "LOCATION",
+            "start": 142,
+            "end": 156,
+            "lettercase": "MC"
+        },
+        {
+            "id": 4,
+            "name": "Microwd",
+            "type": "ORGANIZATION",
+            "start": 188,
+            "end": 195,
+            "lettercase": "UC"
+        },
+        {
+            "id": 5,
+            "name": "Nicaragua",
+            "type": "LOCATION",
+            "start": 281,
+            "end": 290,
+            "lettercase": "UC"
+        },
+        {
+            "id": 6,
+            "name": "Perú",
+            "type": "LOCATION",
+            "start": 292,
+            "end": 296,
+            "lettercase": "UC"
+        },
+        {
+            "id": 7,
+            "name": "México",
+            "type": "LOCATION",
+            "start": 299,
+            "end": 305,
+            "lettercase": "UC"
+        },
+        {
+            "id": 8,
+            "name": "últimos ciento veinte años",
+            "type": "TIME",
+            "start": 832,
+            "end": 858,
+            "lettercase": "LC"
+        },
+        {
+            "id": 9,
+            "name": "Latinoamérica",
+            "type": "LOCATION",
+            "start": 1274,
+            "end": 1287,
+            "lettercase": "UC"
+        },
+        {
+            "id": 10,
+            "name": "América Latina",
+            "type": "LOCATION",
+            "start": 1477,
+            "end": 1491,
+            "lettercase": "MC"
+        },
+        {
+            "id": 11,
+            "name": "últimas décadas",
+            "type": "TIME",
+            "start": 1542,
+            "end": 1557,
+            "lettercase": "LC"
+        },
+        {
+            "id": 12,
+            "name": "siglo veintiuno",
+            "type": "TIME",
+            "start": 2059,
+            "end": 2074,
+            "lettercase": "LC"
+        },
+        {
+            "id": 13,
+            "name": "Polonia",
+            "type": "LOCATION",
+            "start": 2216,
+            "end": 2223,
+            "lettercase": "UC"
+        },
+        {
+            "id": 14,
+            "name": "Corea del Sur",
+            "type": "LOCATION",
+            "start": 2226,
+            "end": 2239,
+            "lettercase": "MC"
+        },
+        {
+            "id": 15,
+            "name": "Latinoamérica",
+            "type": "LOCATION",
+            "start": 2451,
+            "end": 2464,
+            "lettercase": "UC"
+        },
+        {
+            "id": 16,
+            "name": "América Latina",
+            "type": "LOCATION",
+            "start": 2755,
+            "end": 2769,
+            "lettercase": "MC"
+        },
+        {
+            "id": 17,
+            "name": "Latinoamérica",
+            "type": "LOCATION",
+            "start": 2874,
+            "end": 2887,
+            "lettercase": "UC"
+        },
+        {
+            "id": 18,
+            "name": "Alemania",
+            "type": "LOCATION",
+            "start": 2913,
+            "end": 2921,
+            "lettercase": "UC"
+        },
+        {
+            "id": 19,
+            "name": "Arabia Saudí",
+            "type": "LOCATION",
+            "start": 2938,
+            "end": 2950,
+            "lettercase": "MC"
+        },
+        {
+            "id": 20,
+            "name": "Juan Domingo Perón",
+            "type": "PERSON",
+            "start": 3171,
+            "end": 3189,
+            "lettercase": "MC"
+        },
+        {
+            "id": 21,
+            "name": "Bukele",
+            "type": "PERSON",
+            "start": 3232,
+            "end": 3238,
+            "lettercase": "UC"
+        },
+        {
+            "id": 22,
+            "name": "Rafael Correa",
+            "type": "PERSON",
+            "start": 3265,
+            "end": 3278,
+            "lettercase": "MC"
+        },
+        {
+            "id": 23,
+            "name": "Evo Morales",
+            "type": "PERSON",
+            "start": 3280,
+            "end": 3291,
+            "lettercase": "MC"
+        },
+        {
+            "id": 24,
+            "name": "Hugo Chávez",
+            "type": "PERSON",
+            "start": 3294,
+            "end": 3305,
+            "lettercase": "MC"
+        },
+        {
+            "id": 25,
+            "name": "Latinoamérica",
+            "type": "LOCATION",
+            "start": 3593,
+            "end": 3606,
+            "lettercase": "UC"
+        },
+        {
+            "id": 26,
+            "name": "América Latina",
+            "type": "LOCATION",
+            "start": 3766,
+            "end": 3780,
+            "lettercase": "MC"
+        },
+        {
+            "id": 27,
+            "name": "Microwd",
+            "type": "ORGANIZATION",
+            "start": 3943,
+            "end": 3950,
+            "lettercase": "UC"
+        },
+        {
+            "id": 28,
+            "name": "últimos seis años",
+            "type": "TIME",
+            "start": 4405,
+            "end": 4422,
+            "lettercase": "LC"
+        },
+        {
+            "id": 29,
+            "name": "Microwd",
+            "type": "ORGANIZATION",
+            "start": 4440,
+            "end": 4447,
+            "lettercase": "UC"
+        },
+        {
+            "id": 30,
+            "name": "Microwd",
+            "type": "ORGANIZATION",
+            "start": 4610,
+            "end": 4617,
+            "lettercase": "UC"
+        },
+        {
+            "id": 31,
+            "name": "Alejandro de León",
+            "type": "PERSON",
+            "start": 5008,
+            "end": 5025,
+            "lettercase": "MC"
+        },
+        {
+            "id": 32,
+            "name": "Microwd",
+            "type": "ORGANIZATION",
+            "start": 5042,
+            "end": 5049,
+            "lettercase": "UC"
+        },
+        {
+            "id": 33,
+            "name": "América Latina",
+            "type": "LOCATION",
+            "start": 5507,
+            "end": 5521,
+            "lettercase": "MC"
+        },
+        {
+            "id": 34,
+            "name": "Edwin Williamson",
+            "type": "PERSON",
+            "start": 6347,
+            "end": 6363,
+            "lettercase": "MC"
+        },
+        {
+            "id": 35,
+            "name": "Hugo Chávez",
+            "type": "PERSON",
+            "start": 7020,
+            "end": 7031,
+            "lettercase": "MC"
+        },
+        {
+            "id": 36,
+            "name": "dos mil cinco",
+            "type": "TIME",
+            "start": 7035,
+            "end": 7048,
+            "lettercase": "LC"
+        },
+        {
+            "id": 37,
+            "name": "América Latina",
+            "type": "LOCATION",
+            "start": 7331,
+            "end": 7345,
+            "lettercase": "MC"
+        },
+        {
+            "id": 38,
+            "name": "últimos veinte años",
+            "type": "TIME",
+            "start": 7462,
+            "end": 7481,
+            "lettercase": "LC"
+        },
+        {
+            "id": 39,
+            "name": "Venezuela",
+            "type": "LOCATION",
+            "start": 7537,
+            "end": 7546,
+            "lettercase": "UC"
+        },
+        {
+            "id": 40,
+            "name": "Ecuador",
+            "type": "LOCATION",
+            "start": 7548,
+            "end": 7555,
+            "lettercase": "UC"
+        },
+        {
+            "id": 41,
+            "name": "Bolivia",
+            "type": "LOCATION",
+            "start": 7557,
+            "end": 7564,
+            "lettercase": "UC"
+        },
+        {
+            "id": 42,
+            "name": "Nicaragua",
+            "type": "LOCATION",
+            "start": 7567,
+            "end": 7576,
+            "lettercase": "UC"
+        },
+        {
+            "id": 43,
+            "name": "Chile",
+            "type": "LOCATION",
+            "start": 7608,
+            "end": 7613,
+            "lettercase": "UC"
+        },
+        {
+            "id": 44,
+            "name": "mil novecientos noventa",
+            "type": "TIME",
+            "start": 8274,
+            "end": 8297,
+            "lettercase": "LC"
+        },
+        {
+            "id": 45,
+            "name": "Microwd",
+            "type": "ORGANIZATION",
+            "start": 8817,
+            "end": 8824,
+            "lettercase": "UC"
+        },
+        {
+            "id": 46,
+            "name": "Venezuela",
+            "type": "LOCATION",
+            "start": 9854,
+            "end": 9863,
+            "lettercase": "UC"
+        },
+        {
+            "id": 47,
+            "name": "mil novecientos ochenta y nueve",
+            "type": "TIME",
+            "start": 10019,
+            "end": 10050,
+            "lettercase": "LC"
+        },
+        {
+            "id": 48,
+            "name": "Hugo Chávez",
+            "type": "PERSON",
+            "start": 10276,
+            "end": 10287,
+            "lettercase": "MC"
+        },
+        {
+            "id": 49,
+            "name": "mil novecientos noventa y dos",
+            "type": "TIME",
+            "start": 10291,
+            "end": 10320,
+            "lettercase": "LC"
+        },
+        {
+            "id": 50,
+            "name": "Miraflores",
+            "type": "LOCATION",
+            "start": 10426,
+            "end": 10436,
+            "lettercase": "UC"
+        },
+        {
+            "id": 51,
+            "name": "Casa Blanca",
+            "type": "LOCATION",
+            "start": 10441,
+            "end": 10452,
+            "lettercase": "MC"
+        },
+        {
+            "id": 52,
+            "name": "mil novecientos noventa y nueve",
+            "type": "TIME",
+            "start": 10468,
+            "end": 10499,
+            "lettercase": "LC"
+        },
+        {
+            "id": 53,
+            "name": "Argentina",
+            "type": "LOCATION",
+            "start": 10552,
+            "end": 10561,
+            "lettercase": "UC"
+        },
+        {
+            "id": 54,
+            "name": "Kirchner",
+            "type": "PERSON",
+            "start": 10584,
+            "end": 10592,
+            "lettercase": "UC"
+        },
+        {
+            "id": 55,
+            "name": "dos mil uno",
+            "type": "TIME",
+            "start": 10653,
+            "end": 10664,
+            "lettercase": "LC"
+        },
+        {
+            "id": 56,
+            "name": "dos mil dos",
+            "type": "TIME",
+            "start": 10667,
+            "end": 10678,
+            "lettercase": "LC"
+        },
+        {
+            "id": 57,
+            "name": "Ernesto Kirchner",
+            "type": "PERSON",
+            "start": 10730,
+            "end": 10746,
+            "lettercase": "MC"
+        },
+        {
+            "id": 58,
+            "name": "Perón",
+            "type": "PERSON",
+            "start": 11358,
+            "end": 11363,
+            "lettercase": "UC"
+        }
+    ]
+}
